@@ -6,7 +6,7 @@
   },
   "redirects": [
     { 
-      "source": "/de",
+      "source": "/??",
       "destination": "https://diecknet.de",
       "permanent": true
     }
