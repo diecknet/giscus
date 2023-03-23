@@ -3,5 +3,13 @@
     "pages/**/*.ts": {
       "memory": 192
     }
-  }
+  },
+  "redirects": [
+    { 
+      "source": "/[A-Za-z]{2}(-[A-Za-z]{2})?",
+      "destination": "https://diecknet.de",
+      "permanent": true
+    }
+  ]
+ 
 }
