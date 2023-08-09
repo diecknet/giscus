@@ -2584,9 +2584,9 @@ next-translate-plugin@^2.0.5:
     typescript "4.5.2"
 
 next-translate@^2.0.5:
-  version "2.5.2"
-  resolved "https://registry.yarnpkg.com/next-translate/-/next-translate-2.5.2.tgz#7d767099b07dd41aa534db02c8cc8a7ff8b91ad8"
-  integrity sha512-5FusT+XlQGA1BAJaYu3jP8nPs3BDe/8f1u+MVM5CmIqmwOS62jUG5svq7HB4ORC6N6mvsPd7xGi3qxWyAYtwBQ==
+  version "2.5.3"
+  resolved "https://registry.yarnpkg.com/next-translate/-/next-translate-2.5.3.tgz#cd81d9f1d603e6afddcf82a546b6cc6d4142c09c"
+  integrity sha512-Wl4CWqqIqeoPlrKmTgnc7w49mOEi93INUnfVHJDTqNKavlhFg26isqy0LGKWHcvthGiPFBoh5aOXBqhGEfzrSw==
 
 next@^12.3.4:
   version "12.3.4"
