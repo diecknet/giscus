@@ -2582,9 +2582,9 @@ next-plugin-preact@^3.0.7:
     module-alias "^2.0.0"
 
 next-translate-plugin@^2.0.5:
-  version "2.5.2"
-  resolved "https://registry.yarnpkg.com/next-translate-plugin/-/next-translate-plugin-2.5.2.tgz#44d81c8d791443370f8f27ec114c8c2bac69b6bc"
-  integrity sha512-I2PDkbUM91CrOYNPVxhWxfQituSN62Y6f5EQfrZwtJToWc5HqnKs9dFjyQ+VGY3EXx6rPYgK03MVNtI+pc1HBA==
+  version "2.5.3"
+  resolved "https://registry.yarnpkg.com/next-translate-plugin/-/next-translate-plugin-2.5.3.tgz#e1ebe73104bb36e0fb5f49bc78afb86ec11fb779"
+  integrity sha512-P/cdU0Uk6KXnIKoMejBB7JiHxfkGGEffZtiOWrqJdisvdn2XPPjQ94r+YfBgHJIWXVIYF76JMMLCSzCPLb+mEg==
   dependencies:
     typescript "4.5.2"
 
