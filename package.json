@@ -21,7 +21,7 @@
     "format:fix": "prettier --write ."
   },
   "dependencies": {
-    "@next/bundle-analyzer": "^12.3.4",
+    "@next/bundle-analyzer": "^15.0.0",
     "@primer/octicons-react": "^19.11.0",
     "dompurify": "^3.1.6",
     "jsonwebtoken": "^9.0.2",
@@ -47,7 +47,7 @@
     "autoprefixer": "^10.4.20",
     "cssnano": "^7.0.6",
     "eslint": "^8.57.0",
-    "eslint-config-next": "^12.3.4",
+    "eslint-config-next": "^15.0.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.2.1",
     "google-closure-compiler": "^20240317.0.0",
